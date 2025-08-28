@@ -1,5 +1,5 @@
-🕑 Time Counter (C++)
- Desciption:
+## 🕑 Time Counter (C++)
+ Desciption:<br>
  A C++ console timer that lets users set minutes and seconds.<br>
  It includes a visual progress bar to track elapsed time.<br>
 
