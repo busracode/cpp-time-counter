@@ -3,7 +3,7 @@
  A C++ console timer that lets users set minutes and seconds.<br>
  It includes a visual progress bar to track elapsed time.<br>
 
- 🚀​Features
+ 🚀​Features<br>
  💠User input for minutes and seconds<br>
  💠Displays elapsed time in the console<br>
  💠Visual progress bar showing timer progress<br>
